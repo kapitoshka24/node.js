@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "lab5.js",
+  "scripts": {
+    "test": "eslint .",
+    "start": "node lab5.js"
+  },
+  "author": "Nataliia Byshovets",
+  "license": "ISC"
+}
